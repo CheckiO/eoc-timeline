@@ -1,5 +1,3 @@
-Timeline for development [Empire of Code](https://empireofcode.com/)
-
 Use **Issues** section of this repo to share bugs or ask questions.
 
 Next Steps:
